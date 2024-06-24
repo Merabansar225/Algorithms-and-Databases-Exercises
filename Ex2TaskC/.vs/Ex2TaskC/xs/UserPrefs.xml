@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{3D95BEA6-C9BF-4F06-97BE-22F57EE05D14}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Ex2TaskC/Program.cs">
+    <Files>
+      <File FileName="Ex2TaskC/Program.cs" Line="17" Column="1" />
+      <File FileName="Ex2TaskC/Node.cs" Line="4" Column="22" />
+      <File FileName="Ex2TaskC/BinTree.cs" Line="112" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Ex2TaskC" expanded="True">
+            <Node name="Ex2TaskC" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Ex2TaskC PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

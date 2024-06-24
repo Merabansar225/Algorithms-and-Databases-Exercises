@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{1DF1B5AB-701E-4772-A469-FFF8958DB865}|Default">
+  <MonoDevelop.Ide.ItemProperties.Ex1TaskC PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Ex1TaskC/Customer.cs">
+    <Files>
+      <File FileName="Ex1TaskC/Program.cs" />
+      <File FileName="Ex1TaskC/Customer.cs" Line="26" Column="1" />
+      <File FileName="Ex1TaskC/Queue.cs" Line="10" Column="30" />
+      <File FileName="Ex1TaskC/Stack.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Ex1TaskC" expanded="True">
+            <Node name="Ex1TaskC" expanded="True">
+              <Node name="Customer.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

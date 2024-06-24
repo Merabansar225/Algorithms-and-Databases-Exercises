@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{48EE5ECB-3EF7-4557-A532-AF9EBC7F3848}|Default">
+  <MonoDevelop.Ide.ItemProperties.Ex3TaskB PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Ex3TaskB/Program.cs">
+    <Files>
+      <File FileName="Ex3TaskB/Program.cs" Line="111" Column="6" />
+      <File FileName="Ex3TaskB/Student.cs" Line="11" Column="41" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Ex3TaskB" expanded="True">
+            <Node name="Ex3TaskB" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

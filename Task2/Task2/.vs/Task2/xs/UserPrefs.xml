@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{8EE99007-8FF6-4D0D-8A55-4FF59C27139D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="IntQueue.cs">
+    <Files>
+      <File FileName="IntQueue.cs" Line="17" Column="10" />
+      <File FileName="Program.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Task2" expanded="True">
+            <Node name="Task2" expanded="True">
+              <Node name="Form" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Task2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

@@ -1,0 +1,15 @@
+/Users/meerab/Desktop/MSc Computer Science/Algorithms & Data Structures/Assessed Exercises/Ex1TaskA/Ex1TaskA/bin/Debug/net7.0/Ex1TaskA
+/Users/meerab/Desktop/MSc Computer Science/Algorithms & Data Structures/Assessed Exercises/Ex1TaskA/Ex1TaskA/bin/Debug/net7.0/Ex1TaskA.deps.json
+/Users/meerab/Desktop/MSc Computer Science/Algorithms & Data Structures/Assessed Exercises/Ex1TaskA/Ex1TaskA/bin/Debug/net7.0/Ex1TaskA.runtimeconfig.json
+/Users/meerab/Desktop/MSc Computer Science/Algorithms & Data Structures/Assessed Exercises/Ex1TaskA/Ex1TaskA/bin/Debug/net7.0/Ex1TaskA.dll
+/Users/meerab/Desktop/MSc Computer Science/Algorithms & Data Structures/Assessed Exercises/Ex1TaskA/Ex1TaskA/bin/Debug/net7.0/Ex1TaskA.pdb
+/Users/meerab/Desktop/MSc Computer Science/Algorithms & Data Structures/Assessed Exercises/Ex1TaskA/Ex1TaskA/obj/Debug/net7.0/Ex1TaskA.csproj.AssemblyReference.cache
+/Users/meerab/Desktop/MSc Computer Science/Algorithms & Data Structures/Assessed Exercises/Ex1TaskA/Ex1TaskA/obj/Debug/net7.0/Ex1TaskA.GeneratedMSBuildEditorConfig.editorconfig
+/Users/meerab/Desktop/MSc Computer Science/Algorithms & Data Structures/Assessed Exercises/Ex1TaskA/Ex1TaskA/obj/Debug/net7.0/Ex1TaskA.AssemblyInfoInputs.cache
+/Users/meerab/Desktop/MSc Computer Science/Algorithms & Data Structures/Assessed Exercises/Ex1TaskA/Ex1TaskA/obj/Debug/net7.0/Ex1TaskA.AssemblyInfo.cs
+/Users/meerab/Desktop/MSc Computer Science/Algorithms & Data Structures/Assessed Exercises/Ex1TaskA/Ex1TaskA/obj/Debug/net7.0/Ex1TaskA.csproj.CoreCompileInputs.cache
+/Users/meerab/Desktop/MSc Computer Science/Algorithms & Data Structures/Assessed Exercises/Ex1TaskA/Ex1TaskA/obj/Debug/net7.0/Ex1TaskA.dll
+/Users/meerab/Desktop/MSc Computer Science/Algorithms & Data Structures/Assessed Exercises/Ex1TaskA/Ex1TaskA/obj/Debug/net7.0/refint/Ex1TaskA.dll
+/Users/meerab/Desktop/MSc Computer Science/Algorithms & Data Structures/Assessed Exercises/Ex1TaskA/Ex1TaskA/obj/Debug/net7.0/Ex1TaskA.pdb
+/Users/meerab/Desktop/MSc Computer Science/Algorithms & Data Structures/Assessed Exercises/Ex1TaskA/Ex1TaskA/obj/Debug/net7.0/Ex1TaskA.genruntimeconfig.cache
+/Users/meerab/Desktop/MSc Computer Science/Algorithms & Data Structures/Assessed Exercises/Ex1TaskA/Ex1TaskA/obj/Debug/net7.0/ref/Ex1TaskA.dll
